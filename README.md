@@ -8,6 +8,7 @@
 		<img src=https://img.shields.io/badge/Python-F5C63D?style=for-the-badge&logo=python&textColor=white />
 		<img src=https://img.shields.io/badge/Raspberry_pi-A22846?style=for-the-badge&logo=raspberrypi />
 		<img src=https://img.shields.io/badge/-303443?&style=for-the-badge&logo=c />
+	        <img src=https://img.shields.io/badge/VHDL-a600f1?style=for-the-badge&logo=vhdl />
 </div>
 
 <!---
